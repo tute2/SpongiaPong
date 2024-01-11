@@ -64,7 +64,7 @@ ul li::before {
 }
 
 .logo {
-    max-width: 30%; /* Asegura que la imagen no sea más grande que su contenedor */
+    max-width: 60%; /* Asegura que la imagen no sea más grande que su contenedor */
     height: auto; /* Mantiene la proporción de la imagen */
     margin: 20px 0; /* Añade algo de margen alrededor del logo */
     border-radius: 15px;
